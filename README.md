@@ -1,3 +1,6 @@
+> 完整網站原始碼、影片、圖片與授權引擎位於 `mudu-github-source.zip`。GitHub Actions 會在部署時解壓縮，再將網站發布到 Pages；部署流程只有原始碼讀取權限。
+> 本機使用前，請先解壓此檔案，再執行 `node server.mjs` 或 `node tests/anchor.test.mjs`。更新網站時可替換完整封裝，提交到 main 後會自動重新部署。
+
 # 木都 AR｜GitHub Pages
 
 網站：https://papalulala.github.io/mudu-world-ar/
