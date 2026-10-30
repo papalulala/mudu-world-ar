@@ -1,0 +1,6 @@
+dist/external/xr/** -text
+*.mp4 binary
+*.jpg binary
+*.png binary
+*.glb binary
+*.tflite binary
